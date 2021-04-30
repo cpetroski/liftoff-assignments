@@ -13,14 +13,14 @@ My project is a mood tracker. I want to enable people to track their moods/how t
 -Mood Graph: a basic graph to show mood over time.
 -Export Data: a way to email log data to a professional.
 ### Technologies
--Java
+-JavaScript
 -HTML
 -CSS
--Springboot
--Bootstrap
--MySQL
--Hibernate
+-Angular
+-MongoDB
+-Mongoose(ORM)
+
 ### What I'll Have to Learn
-How to turn database data into a graph. How to export/package database data. 
+How to turn database data into a graph. How to export/package database data. MongoDB and whatever 
 ### Project Tracker
 https://trello.com/b/cHXF9nqh/task-tracking
